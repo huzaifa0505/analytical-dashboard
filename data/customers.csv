@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,city,country,signup_date,risk_score
+1,Daniel,Figueroa,jeffreydoyle@example.net,New Roberttown,Pakistan,2026-05-28,2.5
+2,Jeffery,Wagner,hoffmanjennifer@example.net,Robinsonshire,UK,2024-01-31,24.5
+3,Lisa,Smith,helenpeterson@example.org,Port Matthew,UAE,2024-11-13,73.6
+4,Noah,Howard,cassandra07@example.net,South Christianport,Germany,2024-01-30,8.7
+5,Christine,Hensley,janetwilliams@example.org,Traciebury,USA,2026-05-11,3.2
+6,Norman,Chavez,francisco53@example.net,Jacquelineland,Pakistan,2024-02-11,21.9
+7,Cynthia,Ferguson,frankgray@example.net,Lake Mark,Germany,2026-04-11,60.2
+8,Jeremy,Johnson,richard13@example.net,Jasonfort,Germany,2023-12-03,19.9
+9,Nicole,Day,josephwright@example.net,Juliechester,Germany,2025-05-14,42.0
+10,Reginald,Robinson,williamdavis@example.org,East Courtneychester,USA,2026-03-02,58.9
+11,Bryan,James,jrice@example.org,Lake Nicoleview,Pakistan,2026-03-22,75.9
+12,Matthew,Carter,shawnmckay@example.net,Teresaburgh,UAE,2026-05-30,69.8
+13,Rita,Harrell,meagan89@example.org,West Kathryn,UK,2025-11-04,27.8
+14,Stephanie,Nielsen,georgetracy@example.org,Natashaport,UAE,2025-12-23,95.7
+15,Brian,Humphrey,millertodd@example.org,East Donna,UK,2024-09-13,10.2
+16,Frederick,Rose,ibrandt@example.net,Lake Larry,USA,2026-01-09,9.7
+17,Debra,Kim,omartinez@example.org,Andrewside,UK,2026-07-17,60.4
+18,Brianna,Smith,perezrebecca@example.com,New Johnfort,Pakistan,2024-08-30,73.0
+19,Amber,Cummings,esanchez@example.com,North Collin,Germany,2024-08-05,12.5
+20,Michael,Jenkins,nuneztracey@example.org,South Jessicaville,USA,2025-07-08,7.9
+21,James,Herrera,robertramirez@example.org,South Lindseyside,UK,2024-09-28,82.9
+22,Brent,Kidd,novaksara@example.org,South Todd,Germany,2024-02-07,88.5
+23,Michelle,Barrera,nicholasgalloway@example.com,Mitchellside,UK,2024-08-05,57.7
+24,Jennifer,Moore,jeff09@example.net,Lake Leeton,Pakistan,2026-07-02,4.6
+25,Thomas,Calhoun,brianromero@example.org,New Carlosbury,UAE,2026-03-03,77.3
+26,David,Zamora,bethwilliams@example.org,Sandovalshire,Pakistan,2025-05-27,85.5
+27,Leslie,Green,john62@example.net,Stephenland,Pakistan,2025-11-28,38.0
+28,Stephen,Murillo,jonesjason@example.com,West Nicole,USA,2023-09-22,63.6
+29,Mike,Moore,cheryl80@example.net,Sarahville,UK,2024-09-21,16.3
+30,Joseph,Preston,josephjacobs@example.net,Jamesview,UK,2024-04-03,21.0
+31,Tracy,Whitehead,davisrodney@example.com,North Matthewberg,UK,2025-11-01,70.2
+32,Tina,Martin,barnold@example.net,North Charlesberg,Pakistan,2026-05-24,60.9
+33,Barry,Wood,russellwilliams@example.com,West Jasonbury,UAE,2026-01-02,53.4
+34,Curtis,Deleon,vdickson@example.org,Port Francisco,UAE,2026-07-10,16.3
+35,Nicole,Johnson,kimberly63@example.com,Port Jacqueline,USA,2024-06-09,27.0
+36,Monica,Garrison,jamessellers@example.com,Loribury,Germany,2025-04-24,22.0
+37,Andrew,Lee,joshua14@example.com,Frazierside,UK,2024-08-19,84.3
+38,Sheila,Wilson,gregory40@example.org,Reedmouth,Pakistan,2025-02-03,22.9
+39,Catherine,Dixon,mlam@example.com,Lake Ryanhaven,Pakistan,2025-07-16,80.5
+40,Gloria,Bentley,michaeljones@example.net,Cindyville,USA,2025-12-22,26.8
+41,William,Estrada,richard48@example.org,South Elizabeth,UAE,2024-12-17,91.3
+42,Erica,Orr,richard04@example.com,South Kristi,Germany,2025-04-18,87.6
+43,Diana,Marshall,glowe@example.com,Lake Christopher,UK,2026-04-07,21.3
+44,Elizabeth,Harvey,cardenaskaren@example.net,Jeffreyborough,USA,2025-11-16,39.6
+45,Andrew,Sanchez,xcarr@example.org,Perryshire,USA,2024-04-23,14.3
+46,Jennifer,Cruz,psanchez@example.net,Port Michelleville,UAE,2024-07-06,24.7
+47,Jeffery,Brock,pwilliams@example.org,Andersonmouth,Germany,2025-06-29,53.9
+48,Amanda,Hansen,stephanie79@example.net,Rivasside,Germany,2026-07-11,42.8
+49,Phyllis,Manning,wcole@example.org,Katiehaven,Germany,2025-07-31,39.9
+50,Courtney,Hill,reevesjimmy@example.com,Patricialand,UAE,2025-09-29,99.7
+51,Edward,Reyes,jasminebrown@example.com,Amychester,UAE,2024-04-09,51.0
+52,Jamie,Fisher,gateskathy@example.com,Smithstad,Pakistan,2023-12-13,75.6
+53,Karen,Castaneda,vmedina@example.net,South Jeffrey,Pakistan,2024-12-14,15.3
+54,Todd,Price,dramsey@example.org,South Brittanytown,UAE,2025-07-16,79.2
+55,Dawn,Taylor,qwhite@example.com,Jasonmouth,USA,2024-01-16,59.6
+56,Kathleen,Gray,fking@example.com,Lake Amberstad,USA,2025-02-13,38.2
+57,Debra,Harrington,websterstefanie@example.org,New Elijahberg,USA,2024-08-21,52.9
+58,Elizabeth,Elliott,stevenscott@example.com,New Catherine,Germany,2025-09-12,86.1
+59,Kimberly,Martin,daniel04@example.net,Sandersborough,Pakistan,2024-03-03,68.0
+60,Brittany,Rivas,curtisbarton@example.net,Port Tonyaton,Pakistan,2024-01-04,68.2
+61,Amanda,Stanley,huntermatthew@example.com,Garciastad,Germany,2025-02-28,75.1
+62,Patricia,Stevens,ryangross@example.net,Christinaside,UK,2026-05-22,11.2
+63,Steven,Petersen,marcus31@example.com,Sanchezmouth,USA,2025-09-28,15.8
+64,Cheryl,Gray,snydermark@example.com,West Lauren,Pakistan,2026-02-09,95.4
+65,Joshua,Carlson,angela83@example.org,Lake Richard,UK,2025-02-17,97.2
+66,Katherine,Vaughn,bwest@example.org,Jeffreybury,UAE,2026-01-17,50.8
+67,Elizabeth,Wood,ronald85@example.com,Nelsonview,Pakistan,2024-12-26,87.1
+68,David,Lee,newtonstephanie@example.net,East Javier,UK,2024-08-31,84.2
+69,Joshua,Lawrence,tina34@example.org,Harrytown,Germany,2025-09-29,60.9
+70,David,Williams,tranheidi@example.org,Garciatown,UAE,2025-12-15,37.4
+71,Justin,Mendoza,jack04@example.com,Port Cameronfort,UAE,2026-02-15,53.9
+72,Barbara,Parks,edwardhart@example.com,East Davidchester,Germany,2024-01-01,91.8
+73,Caitlin,Montgomery,chayes@example.com,Torreston,Germany,2026-04-06,32.4
+74,Susan,Garcia,colleenbaker@example.org,East Glenn,Pakistan,2026-04-12,11.2
+75,Eric,Ortiz,ocarter@example.com,Jacquelinemouth,UK,2024-01-02,87.9
+76,Grace,Bradshaw,ronaldstephens@example.net,West Margaret,UK,2023-12-27,23.9
+77,Brian,Sparks,scott74@example.net,Benderhaven,UAE,2023-12-27,87.8
+78,Troy,Miller,prestonjessica@example.net,Anthonybury,Pakistan,2025-12-24,8.6
+79,Mary,Johnston,keyemily@example.com,Port Katelynfort,USA,2026-07-21,81.6
+80,Denise,Moon,wendygraham@example.com,South Michaelmouth,Germany,2025-11-22,76.6
+81,Elizabeth,Hodge,robert74@example.net,Cervantesside,UAE,2025-01-18,66.0
+82,Shawn,Edwards,darrell68@example.org,Gutierrezborough,Germany,2023-11-04,16.5
+83,Michael,Avila,nwolf@example.com,West Samuel,Germany,2025-11-21,87.2
+84,David,Dudley,jennifercollins@example.org,Davisville,USA,2025-09-29,96.4
+85,Stacey,Holland,tyronemoran@example.net,Robertfort,Germany,2025-08-24,75.5
+86,John,Arnold,mlee@example.net,Port Chad,UAE,2025-09-10,71.3
+87,Matthew,French,lori44@example.net,Grimesmouth,USA,2025-06-13,99.5
+88,Todd,Cook,ugibson@example.org,New Patrick,UK,2025-12-22,43.8
+89,Bradley,Garner,qhughes@example.net,South Tammie,Germany,2025-06-07,45.1
+90,Wayne,Lawrence,sawyerscott@example.net,Smithberg,UAE,2024-03-22,22.5
+91,Monica,Booker,harrisontanya@example.com,Santosmouth,UK,2025-06-05,2.1
+92,Michele,James,courtney78@example.org,East Crystalport,Germany,2026-07-21,23.0
+93,Julie,Hamilton,hodgesjane@example.org,Jacksonport,UAE,2024-08-26,0.7
+94,Brandon,Flynn,michael62@example.org,Knightburgh,Pakistan,2023-10-22,22.9
+95,Gregory,Lynch,pharvey@example.com,East Steven,Pakistan,2024-05-29,86.0
+96,Steve,Estrada,rsantana@example.net,North Scott,Pakistan,2024-10-06,51.4
+97,Vanessa,Evans,dvaughn@example.com,South Melissa,UK,2025-02-25,66.9
+98,John,Armstrong,victoria40@example.net,Hillshire,UAE,2024-02-20,53.9
+99,Kimberly,Beltran,swall@example.org,Jefferyborough,Germany,2026-08-08,57.6
+100,John,Campos,courtneyberger@example.net,West Kristinaton,UAE,2026-04-29,78.5
+101,Michael,Anderson,mark62@example.org,Port Amber,USA,2026-02-24,19.0
+102,Alyssa,Mcintyre,jonathansummers@example.com,Juliemouth,Pakistan,2025-03-29,65.9
+103,Taylor,Jones,michelleramsey@example.com,Christopherfurt,UK,2024-03-04,42.4
+104,Joseph,Martinez,emily49@example.com,Danielbury,USA,2023-09-29,86.4
+105,Angel,Henson,rose31@example.net,Blankenshipport,Pakistan,2025-09-09,67.3
+106,Ricky,Taylor,torrestravis@example.org,New Derek,Pakistan,2026-06-12,6.1
+107,Nathan,Avery,umatthews@example.org,Penafort,UK,2025-08-12,80.1
+108,Ricky,Lynn,vaughnjeff@example.com,Port Michael,Pakistan,2026-04-21,24.9
+109,Michael,Winters,bruce43@example.org,Davisborough,UAE,2026-08-08,53.6
+110,Danielle,Maddox,buchananjohn@example.org,North Maria,UAE,2026-05-31,42.2
+111,Jamie,Robinson,markhernandez@example.net,West Micheleberg,UK,2026-01-15,46.3
+112,Amber,Lindsey,guerreroanthony@example.org,Kristybury,Pakistan,2024-03-27,44.3
+113,Mario,Thompson,martinezrobert@example.org,South Shanestad,Germany,2026-03-10,9.8
+114,Brittney,Hayes,soniawilliams@example.net,Stephentown,Germany,2025-11-13,83.6
+115,Yolanda,Boone,fparks@example.net,Jonesland,Pakistan,2023-12-11,92.6
+116,Charlene,Jones,claudia98@example.net,Oscarhaven,UAE,2025-01-20,16.6
+117,Shawn,Jacobs,mcguiredanny@example.net,South Shannon,USA,2024-12-09,48.1
+118,Robert,Wilcox,gperry@example.com,Edwardsview,USA,2024-08-27,90.2
+119,Stephanie,Mcdaniel,fjones@example.org,Davisstad,UAE,2025-04-11,37.9
+120,Angela,Willis,elizabeth65@example.net,Parrishton,USA,2024-03-28,26.5
+121,Caroline,Bell,ericolson@example.org,Meganstad,USA,2024-11-27,28.5
+122,Kathryn,Andrews,xbruce@example.net,New Sarahview,Germany,2024-03-04,66.2
+123,Henry,Park,sandra50@example.org,New Diane,USA,2023-10-22,15.5
+124,Donald,Schultz,davisalyssa@example.com,Chavezburgh,UK,2023-12-25,21.8
+125,Larry,Nguyen,wareeric@example.net,Lake Christophermouth,Pakistan,2025-04-04,57.9
+126,Roger,Lawson,wnelson@example.net,West Russellport,Germany,2026-07-02,6.1
+127,Erika,Tucker,brandon69@example.org,East Kevinborough,UK,2026-07-27,5.7
+128,Kathryn,Roberts,smithjulie@example.org,South Amanda,Germany,2024-04-08,47.7
+129,Vincent,Whitaker,charles06@example.org,Morsemouth,Germany,2024-08-30,15.7
+130,Ruben,Sullivan,zroberts@example.org,Georgemouth,Germany,2026-02-18,8.0
+131,Christopher,Richard,ryanmorales@example.org,Harrellmouth,UAE,2025-03-23,6.9
+132,Mason,Jackson,schmidtjames@example.com,Jessicaberg,Pakistan,2024-08-17,67.5
+133,Curtis,Scott,carriewolf@example.net,East Stephaniefort,UAE,2024-09-09,40.4
+134,Karen,Wolf,kmaldonado@example.net,Michellemouth,Germany,2025-08-28,24.6
+135,Scott,Harrison,laura90@example.com,West Steventon,Germany,2024-04-29,4.0
+136,Miguel,Mitchell,gilbertwilliam@example.com,South Reginashire,Pakistan,2023-12-05,41.9
+137,Jacob,Jacobs,susanhayes@example.com,New Debbieton,Germany,2026-06-16,56.5
+138,Jasmine,Ritter,michaelhardin@example.com,Schroederton,UK,2024-09-26,93.5
+139,Deborah,Jones,grantpaul@example.com,West Christopher,UAE,2026-05-15,67.0
+140,Donald,Bailey,tanderson@example.org,Angelicamouth,UK,2026-07-04,23.9
+141,Elizabeth,Calderon,lucasrodney@example.com,West Kyleborough,USA,2024-03-24,13.1
+142,Stacey,Tucker,zoemoore@example.com,New Kellihaven,UK,2025-02-19,45.7
+143,Ebony,Walter,carlamoore@example.org,Lake Samuel,Pakistan,2023-11-05,0.9
+144,Michael,Ball,wbishop@example.net,Youngbury,Germany,2025-06-07,99.8
+145,Tammy,Mueller,michealvalentine@example.com,Hammondfurt,Pakistan,2024-12-31,7.3
+146,Allison,Burch,laurietaylor@example.com,Lake Timothystad,UAE,2025-10-28,50.6
+147,Sarah,Dawson,mitchellkathryn@example.com,Whiteheadberg,UAE,2026-01-16,93.3
+148,Christopher,Lozano,bwilkerson@example.com,South Waynebury,Pakistan,2025-07-18,87.9
+149,Virginia,Brooks,florescory@example.net,Laceyberg,UK,2025-04-29,28.5
+150,Justin,Gallegos,katherineharrison@example.net,North Andrewborough,USA,2023-11-06,83.4
+151,Ana,Acosta,srodriguez@example.org,Davidbury,UK,2024-04-27,61.2
+152,Danielle,Dean,rodriguezrebecca@example.net,Lake Zacharybury,Germany,2025-06-21,0.8
+153,Kelly,Smith,millsmichael@example.net,South Morganton,Germany,2024-04-18,29.9
+154,Paul,Brooks,kellycarlos@example.org,Port Bonniemouth,Pakistan,2026-05-22,93.9
+155,Bradley,Payne,mariacohen@example.net,Welchberg,UAE,2024-04-02,26.4
+156,Jennifer,Acevedo,carterbradley@example.org,West Sarahhaven,Pakistan,2023-12-15,74.2
+157,Veronica,Daniels,benjamin34@example.com,Port Dianaview,UAE,2025-05-18,27.2
+158,Lauren,Kim,ypaul@example.com,South Heather,Germany,2024-03-19,21.1
+159,Sandra,Stone,acostachristian@example.net,New Kelly,UK,2025-03-31,20.4
+160,Christopher,Guerrero,sean62@example.net,Bellton,UK,2024-02-14,50.5
+161,Christina,Graham,jonesdana@example.com,North Douglas,UK,2025-03-08,90.5
+162,Erika,Kim,carlososborne@example.com,Patrickshire,Pakistan,2026-04-08,9.2
+163,Cassie,Shelton,nathan19@example.org,Raymondview,USA,2023-10-28,82.9
+164,Susan,Johnson,victorhughes@example.net,West Kimberlymouth,Pakistan,2024-09-29,0.4
+165,Wendy,Mitchell,igonzalez@example.org,Thompsonmouth,UAE,2024-08-06,63.7
+166,Lisa,Ponce,elizabeth18@example.net,Patriciaburgh,UK,2024-01-22,16.2
+167,Grant,Ward,davidharris@example.org,Port Troy,USA,2026-05-25,55.2
+168,Angela,Wood,cherylmiller@example.com,Keyfort,USA,2025-03-21,56.1
+169,Robert,Ortiz,martinezlogan@example.org,Owenshaven,Pakistan,2025-12-02,7.5
+170,David,Calderon,katrinaanderson@example.net,Port Davidberg,UAE,2025-02-24,54.6
+171,Fred,Morris,michaeleverett@example.com,West Jamesside,UK,2024-12-23,58.3
+172,David,Turner,shawgary@example.net,East Donna,UAE,2024-11-07,43.0
+173,Matthew,Bradshaw,bryananthony@example.org,Debrashire,Pakistan,2026-04-05,30.8
+174,Christine,Johnson,dawn47@example.org,Evansland,Pakistan,2025-06-16,89.9
+175,Eric,Perry,mharris@example.org,Michellemouth,UAE,2023-12-10,68.2
+176,Theresa,Anderson,zachary15@example.org,Martinezmouth,Pakistan,2025-02-25,35.4
+177,Donald,Williams,alin@example.org,Port Mark,Germany,2024-09-27,88.4
+178,Jennifer,Lee,tyronerobertson@example.com,Tylerland,USA,2026-02-21,97.4
+179,William,Levy,brandywilliams@example.com,Harperfort,UAE,2025-05-10,92.6
+180,Amanda,Boone,qanderson@example.net,Kathrynstad,UAE,2024-11-24,86.5
+181,Richard,Hudson,michaelroberts@example.com,Duranview,UAE,2023-11-17,88.1
+182,Erin,Wilson,longlaura@example.com,Kariborough,Pakistan,2026-05-03,17.9
+183,William,Porter,williamsjennifer@example.com,Hernandezhaven,UK,2026-03-31,78.2
+184,Mark,Austin,phillipjensen@example.com,Williamhaven,USA,2024-04-12,80.2
+185,Tracy,Hart,xcabrera@example.com,South Brandytown,UAE,2025-12-12,26.7
+186,Thomas,Coffey,jennifersilva@example.org,Hernandezbury,Pakistan,2026-03-23,38.3
+187,Ashley,Graves,andrewedwards@example.org,Vaughnchester,Pakistan,2023-10-27,85.9
+188,Kimberly,Knapp,thorntonapril@example.net,Whitneyfort,UAE,2025-10-26,20.0
+189,Nicholas,Frye,vbarr@example.net,Ericaview,USA,2025-12-02,35.0
+190,Todd,Bernard,angela34@example.com,Lake Janet,UAE,2026-04-12,22.3
+191,Timothy,Castro,keith98@example.com,Cardenasberg,UAE,2025-01-12,39.8
+192,Bobby,Moses,reedscott@example.com,Lewisside,UK,2024-12-02,86.4
+193,Sarah,Horton,danielyang@example.org,North Elizabeth,UK,2024-11-02,35.1
+194,Jeremiah,Hall,gutierrezjennifer@example.org,North Tamara,Germany,2025-12-10,40.0
+195,Richard,Donovan,mwoods@example.com,Justinton,Germany,2024-05-10,33.1
+196,Denise,Hall,gentrygregory@example.org,Port Randyfort,Pakistan,2024-01-24,11.5
+197,Sharon,Hayden,nancy04@example.net,West Justinside,UK,2024-06-23,17.9
+198,Troy,Mays,znelson@example.org,Franciscomouth,UK,2025-11-30,3.8
+199,Jonathan,Lopez,krystal93@example.org,Wilcoxhaven,Germany,2026-06-11,43.5
+200,Christopher,Caldwell,tinawoods@example.org,West Patrickmouth,UK,2025-01-29,43.6
