@@ -5,7 +5,10 @@ Built in Module 11 with Python, Plotly, Streamlit and Dash.
 ## Run it
     pip install -r requirements.txt
     streamlit run app.py          # Streamlit dashboard  -> http://localhost:8501
+    or
     python app_dash.py            # Plotly Dash dashboard -> http://127.0.0.1:8050
+    or
+    http://localhost:8502
 
 ## Files
 - dashboard_lib.py : data preparation, KPIs, insights and 16 Plotly charts (shared)
