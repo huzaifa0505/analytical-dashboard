@@ -20,3 +20,6 @@ Built in Module 11 with Python, Plotly, Streamlit and Dash.
 
 Tested with pandas 3.0, Plotly 7.1, Streamlit 1.66 and Dash 4.4.
 Amounts have no currency in the source files, so none is shown.
+
+## Link
+https://analyticaldashboard.streamlit.app/
